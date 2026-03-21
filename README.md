@@ -8,8 +8,8 @@ The project follows a comprehensive unsupervised learning pipeline, including da
 
 Contribution Log:
 AJ Clark:
-    Week 1 Project Timeline:
-
+    Week 1 Project Timeline: Set up preferred communications and project sharing platform.
+    
     Week 2 Data Understanding:
 
     Week 3 Critical Thinking and Data Investigation:
@@ -21,7 +21,7 @@ AJ Clark:
     Week 6:Final Presentation:
 
 Alec Lundy:
-    Week 1 Project Timeline:
+    Week 1 Project Timeline: Set up preferred communications and project sharing platform.
 
     Week 2 Data Understanding:
 
