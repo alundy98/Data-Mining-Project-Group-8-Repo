@@ -7,6 +7,7 @@ Your mission is to analyze the nutritional composition of the store’s inventor
 The project follows a comprehensive unsupervised learning pipeline, including data normalization, dimensionality reduction (PCA), clustering (k-Means), and cluster profiling. Strong collaboration and documentation established in Week 1 are critical for translating technical clusters into actionable business insights.
 
 Contribution Log:
+
 AJ Clark:
 
     Week 1 Project Timeline: Set up preferred communications and project sharing platform.
