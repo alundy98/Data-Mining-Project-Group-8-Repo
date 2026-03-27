@@ -10,10 +10,13 @@ Contribution Log:
 
 AJ Clark:
 
-    Week 1 Project Timeline: Set up preferred communications and project sharing platform.
+    Week 1 Team Formation & Collaboration Infrastructure: 
+    -Set up communications and project sharing platform.
     
     Week 2 Data Understanding: 
-
+    -Distribution Audit: Generated histograms and box plots for nutritional features.
+    -Correlation Matrix: Identified which nutrients tend to appear together (e.g., high sugar and low fiber).
+    
     Week 3 Critical Thinking and Data Investigation:
 
     Week 4: PCA / k-Means Clustering:
@@ -24,9 +27,12 @@ AJ Clark:
 
 Alec Lundy:
 
-    Week 1 Project Timeline: Set up preferred communications and project sharing platform.
+    Week 1 Team Formation & Collaboration Infrastructure: 
+    -Set up communications and project sharing platform.
 
     Week 2 Data Understanding:
+    -Distribution Audit: Generated histograms and box plots for nutritional features.
+    -Correlation Matrix: Identified which nutrients tend to appear together (e.g., high sugar and low fiber).
 
     Week 3 Critical Thinking and Data Investigation:
 
