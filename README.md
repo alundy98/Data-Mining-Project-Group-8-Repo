@@ -18,6 +18,9 @@ AJ Clark:
     -Correlation Matrix: Identified which nutrients tend to appear together (e.g., high sugar and low fiber).
     
     Week 3 Critical Thinking and Data Investigation:
+    -Defined each column and summarized strong correlation groups via Annotation.
+    -Picked  3 features to classify our inventory then tested with scatter plots.
+    -Identified "misfit" rows that appeared misclassified and speculated on whether they were labeling errors, if applicable.
 
     Week 4: PCA / k-Means Clustering:
 
@@ -35,6 +38,9 @@ Alec Lundy:
     -Correlation Matrix: Identified which nutrients tend to appear together (e.g., high sugar and low fiber).
 
     Week 3 Critical Thinking and Data Investigation:
+    -Defined each column and summarized strong correlation groups via Annotation.
+    -Picked  3 features to classify our inventory then tested with scatter plots.
+    -Identified "misfit" rows that appeared misclassified and speculated on whether they were labeling errors, if applicable.
 
     Week 4: PCA / k-Means Clustering:
 
