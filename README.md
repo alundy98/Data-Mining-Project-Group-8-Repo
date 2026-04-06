@@ -23,7 +23,10 @@ AJ Clark:
     -Identified "misfit" rows that appeared misclassified and speculated on whether they were labeling errors, if applicable.
 
     Week 4: PCA / k-Means Clustering:
-
+    -Ran PCA and plot PC1 vs PC2. Described how much variance was captured in an Annotation.
+    -Ran k-Means for k=2 to k=10. Created a graph to plot the within-cluster sum of squares and justify our choice of k based on the curve's "bend."
+    -Created a graph to plot clusters on the PCA space and described where boundaries break down.
+    
     Week 5: Cluster Analysis and Validation:
 
     Week 6:Final Presentation:
@@ -43,7 +46,10 @@ Alec Lundy:
     -Identified "misfit" rows that appeared misclassified and speculated on whether they were labeling errors, if applicable.
 
     Week 4: PCA / k-Means Clustering:
-
+    -Ran PCA and plot PC1 vs PC2. Described how much variance was captured in an Annotation.
+    -Ran k-Means for k=2 to k=10. Created a graph to plot the within-cluster sum of squares and justify our choice of k based on the curve's "bend."
+    -Created a graph to plot clusters on the PCA space and described where boundaries break down.
+    
     Week 5: Cluster Analysis and Validation:
 
     Week 6:Final Presentation:
