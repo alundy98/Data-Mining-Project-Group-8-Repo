@@ -28,7 +28,10 @@ AJ Clark:
     -Created a graph to plot clusters on the PCA space and described where boundaries break down.
     
     Week 5: Cluster Analysis and Validation:
-
+    -Used GroupBy and Bar Charts to see which activity labels (or grocery categories) would fall into which clusters.
+    -Added map clusters to dominant labels and produce a confusion matrix to identify which items are most often "confused."
+    -Computed silhouette coefficients. Identified well-defined clusters vs. overlapping clusters.
+    
     Week 6:Final Presentation:
 
 Alec Lundy:
@@ -51,5 +54,8 @@ Alec Lundy:
     -Created a graph to plot clusters on the PCA space and described where boundaries break down.
     
     Week 5: Cluster Analysis and Validation:
-
+    -Used GroupBy and Bar Charts to see which activity labels (or grocery categories) would fall into which clusters.
+    -Added map clusters to dominant labels and produce a confusion matrix to identify which items are most often "confused."
+    -Computed silhouette coefficients. Identified well-defined clusters vs. overlapping clusters.
+    
     Week 6:Final Presentation:
