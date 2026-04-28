@@ -32,7 +32,7 @@ AJ Clark:
     -Added map clusters to dominant labels and produce a confusion matrix to identify which items are most often "confused."
     -Computed silhouette coefficients. Identified well-defined clusters vs. overlapping clusters.
     
-    Week 6:Final Presentation:
+    Week 6: Final Presentation
 
 Alec Lundy:
 
@@ -58,4 +58,4 @@ Alec Lundy:
     -Added map clusters to dominant labels and produce a confusion matrix to identify which items are most often "confused."
     -Computed silhouette coefficients. Identified well-defined clusters vs. overlapping clusters.
     
-    Week 6:Final Presentation:
+    Week 6: Final Presentation
